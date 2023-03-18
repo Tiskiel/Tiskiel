@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiskiel
 - 👀 I’m interested in programmation, gaming and nature 
-- 🌱 I’m currently learning Angular, Ionic and Express
+- 🌱 I’m currently learning Laravel
 
 
 <!---
