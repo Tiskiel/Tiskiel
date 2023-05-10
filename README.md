@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiskiel
 - 👀 I’m interested in programmation, gaming and nature 
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently work to laravel and react
 
 
 <!---
