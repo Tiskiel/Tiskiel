@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tiskiel
-- 👀 I’m interested in programmation, gaming and nature 
+- 👀 I’m interested by programmation, gaming and nature 
 - 🌱 I’m currently work to Laravel and React
 
 
