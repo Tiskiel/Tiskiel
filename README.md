@@ -22,7 +22,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/HCwnYWnMgLZU
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I try to solve problems on differents open sources repository and I work on some personal projects.
+- :zap: In my free time, I try to solve problems on differents open sources repositories and I work on some personal projects.
 
 <hr />
 
