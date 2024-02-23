@@ -45,6 +45,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/HCwnYWnMgLZU
 
 
 ---
+### CodeWar rank:
+<img src="https://www.codewars.com/users/Tiskiel/badges/large" />
 
 ### :fire: My Stats :
 
